@@ -1,0 +1,204 @@
+[
+  {
+    "id": "G1",
+    "category": "同意",
+    "title": "参与者授权 1",
+    "revision": 1,
+    "fields": {
+      "person": "S1",
+      "purpose": [
+        "路线统计"
+      ],
+      "collected_from": "2026-01-01",
+      "signed": "2026-09-01",
+      "until": "2027-01-01"
+    }
+  },
+  {
+    "id": "G2",
+    "category": "同意",
+    "title": "参与者授权 2",
+    "revision": 1,
+    "fields": {
+      "person": "S2",
+      "purpose": [
+        "路线统计"
+      ],
+      "collected_from": "2026-01-01",
+      "signed": "2026-09-01",
+      "until": "2027-01-01"
+    }
+  },
+  {
+    "id": "G3",
+    "category": "同意",
+    "title": "参与者授权 3",
+    "revision": 1,
+    "fields": {
+      "person": "S3",
+      "purpose": [
+        "路线统计"
+      ],
+      "collected_from": "2026-01-01",
+      "signed": "2026-09-01",
+      "until": "2027-01-01"
+    }
+  },
+  {
+    "id": "G4",
+    "category": "同意",
+    "title": "参与者授权 4",
+    "revision": 1,
+    "fields": {
+      "person": "S4",
+      "purpose": [
+        "路线统计"
+      ],
+      "collected_from": "2026-01-01",
+      "signed": "2026-09-01",
+      "until": "2027-01-01"
+    }
+  },
+  {
+    "id": "G5",
+    "category": "同意",
+    "title": "参与者授权 5",
+    "revision": 1,
+    "fields": {
+      "person": "S5",
+      "purpose": [
+        "路线统计"
+      ],
+      "collected_from": "2026-01-01",
+      "signed": "2026-09-01",
+      "until": "2027-01-01"
+    }
+  },
+  {
+    "id": "G6",
+    "category": "同意",
+    "title": "参与者授权 6",
+    "revision": 1,
+    "fields": {
+      "person": "S6",
+      "purpose": [
+        "路线统计"
+      ],
+      "collected_from": "2026-01-01",
+      "signed": "2026-09-01",
+      "until": "2027-01-01"
+    }
+  },
+  {
+    "id": "G7",
+    "category": "同意",
+    "title": "参与者授权 7",
+    "revision": 1,
+    "fields": {
+      "person": "S7",
+      "purpose": [
+        "路线统计"
+      ],
+      "collected_from": "2026-01-01",
+      "signed": "2026-09-01",
+      "until": "2027-01-01"
+    }
+  },
+  {
+    "id": "G8",
+    "category": "同意",
+    "title": "参与者授权 8",
+    "revision": 1,
+    "fields": {
+      "person": "S8",
+      "purpose": [
+        "路线统计"
+      ],
+      "collected_from": "2026-01-01",
+      "signed": "2026-09-01",
+      "until": "2027-01-01"
+    }
+  },
+  {
+    "id": "G9",
+    "category": "同意",
+    "title": "参与者授权 9",
+    "revision": 1,
+    "fields": {
+      "person": "S9",
+      "purpose": [
+        "路线统计"
+      ],
+      "collected_from": "2026-01-01",
+      "signed": "2026-09-01",
+      "until": "2027-01-01"
+    }
+  },
+  {
+    "id": "G10",
+    "category": "同意",
+    "title": "参与者授权 10",
+    "revision": 1,
+    "fields": {
+      "person": "S10",
+      "purpose": [
+        "商业评估"
+      ],
+      "collected_from": "2026-01-01",
+      "signed": "2026-09-01",
+      "until": "2027-01-01"
+    }
+  },
+  {
+    "id": "G11",
+    "category": "同意",
+    "title": "参与者授权 11",
+    "revision": 1,
+    "fields": {
+      "person": "S11",
+      "purpose": [
+        "路线统计"
+      ],
+      "collected_from": "2026-11-01",
+      "signed": "2026-09-01",
+      "until": "2027-01-01"
+    }
+  },
+  {
+    "id": "G11B",
+    "category": "补充",
+    "title": "S11补充用途",
+    "revision": 1,
+    "fields": {
+      "person": "S11",
+      "purpose": [
+        "路线统计"
+      ],
+      "collected_from": "2026-11-01",
+      "signed": "2026-11-05",
+      "supersedes": "G11"
+    }
+  },
+  {
+    "id": "W5",
+    "category": "撤回",
+    "title": "S5撤回",
+    "revision": 1,
+    "fields": {
+      "person": "S5",
+      "effective": "2026-11-09T09:00:00+08:00",
+      "scope": "全部研究数据"
+    }
+  },
+  {
+    "id": "W8",
+    "category": "撤回",
+    "title": "S8撤回",
+    "revision": 1,
+    "fields": {
+      "person": "S8",
+      "effective": "2026-11-10T10:00:00+08:00",
+      "scope": "全部研究数据"
+    }
+  }
+]
