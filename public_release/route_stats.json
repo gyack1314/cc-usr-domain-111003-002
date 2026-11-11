@@ -1,0 +1,20 @@
+{
+  "fields": {
+    "age_band": "年龄段（规程给定：20-39、40-59、60+）",
+    "distinct_participants": "不同参与者人数（k 按人计，不按观察行计）",
+    "observation_count": "观察记录次数（同一参与者可多次）",
+    "route_region": "路线片区（由具体站点/路线泛化）",
+    "time_band": "出行时段（早高峰7-9/晚高峰17-19，必要时泛化为全日）"
+  },
+  "freeze_at": "2026-11-10T12:00:00+08:00",
+  "k_threshold": 3,
+  "rows": [
+    {
+      "age_band": "20-39",
+      "distinct_participants": 3,
+      "observation_count": 4,
+      "route_region": "东片",
+      "time_band": "早高峰"
+    }
+  ]
+}

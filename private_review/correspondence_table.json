@@ -1,0 +1,94 @@
+{
+  "freeze_at": "2026-11-10T12:00:00+08:00",
+  "mappings": [
+    {
+      "age_band": "20-39",
+      "consent_evidence": "G1",
+      "original_age": 24,
+      "original_hour": 8,
+      "original_route": "R1",
+      "person_code": "S1",
+      "route_region": "东片",
+      "source_row": "O1",
+      "time_band": "早高峰"
+    },
+    {
+      "age_band": "20-39",
+      "consent_evidence": "G1",
+      "original_age": 24,
+      "original_hour": 8,
+      "original_route": "R1",
+      "person_code": "S1",
+      "route_region": "东片",
+      "source_row": "O10",
+      "time_band": "早高峰"
+    },
+    {
+      "age_band": "20-39",
+      "consent_evidence": "G2",
+      "original_age": 25,
+      "original_hour": 8,
+      "original_route": "R1",
+      "person_code": "S2",
+      "route_region": "东片",
+      "source_row": "O2",
+      "time_band": "早高峰"
+    },
+    {
+      "age_band": "20-39",
+      "consent_evidence": "G3",
+      "original_age": 27,
+      "original_hour": 8,
+      "original_route": "R1",
+      "person_code": "S3",
+      "route_region": "东片",
+      "source_row": "O3",
+      "time_band": "早高峰"
+    },
+    {
+      "age_band": "40-59",
+      "consent_evidence": "G4",
+      "original_age": 42,
+      "original_hour": 18,
+      "original_route": "R2",
+      "person_code": "S4",
+      "route_region": "西片",
+      "source_row": "O4",
+      "time_band": "晚高峰"
+    },
+    {
+      "age_band": "40-59",
+      "consent_evidence": "G6",
+      "original_age": 45,
+      "original_hour": 18,
+      "original_route": "R2",
+      "person_code": "S6",
+      "route_region": "西片",
+      "source_row": "O6",
+      "time_band": "晚高峰"
+    },
+    {
+      "age_band": "60+",
+      "consent_evidence": "G7",
+      "original_age": 61,
+      "original_hour": 7,
+      "original_route": "R3",
+      "person_code": "S7",
+      "route_region": "北片",
+      "source_row": "O7",
+      "time_band": "早高峰"
+    },
+    {
+      "age_band": "60+",
+      "consent_evidence": "G9",
+      "original_age": 66,
+      "original_hour": 9,
+      "original_route": "R4",
+      "person_code": "S9",
+      "route_region": "北片",
+      "source_row": "O9",
+      "time_band": "早高峰"
+    }
+  ],
+  "warning": "审核用可逆对应关系，严禁与公开包同目录或对外提供"
+}

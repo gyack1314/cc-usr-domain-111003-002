@@ -1,0 +1,256 @@
+{
+  "total_checks": 50,
+  "all_pass": true,
+  "checks": [
+    {
+      "check": "公开包文件集合",
+      "pass": true,
+      "detail": "['public_manifest.json', 'release_notes.md', 'route_stats.csv', 'route_stats.json']"
+    },
+    {
+      "check": "公开文件名无参与者码/标识",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "CSV 字段白名单",
+      "pass": true,
+      "detail": "['route_region', 'time_band', 'age_band', 'distinct_participants', 'observation_count']"
+    },
+    {
+      "check": "JSON 与 CSV 行数一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "CSV 无标识值",
+      "pass": true,
+      "detail": "{'route_region': '东片', 'time_band': '早高峰', 'age_band': '20-39', 'distinct_participants': '3', 'observation_count': '4'}"
+    },
+    {
+      "check": "计数为正整数",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "联结组 k>=3: ('东片', '早高峰', '20-39')",
+      "pass": true,
+      "detail": "rebuilt k=3, published=3"
+    },
+    {
+      "check": "未达标组已压制: ('北片', '早高峰', '60+')",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "未达标组已压制: ('西片', '晚高峰', '40-59')",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "撤回者无公开残留",
+      "pass": true,
+      "detail": "withdrawn=['S5', 'S8'], intersection=[]"
+    },
+    {
+      "check": "留置人员未进入公开组",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "13 行观察全部有去向",
+      "pass": true,
+      "detail": "missing=[]"
+    },
+    {
+      "check": "公开清单不含私有文件",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "公开文件无参与者码: public_manifest.json",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "check": "公开文件无参与者码: release_notes.md",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "check": "公开文件无参与者码: route_stats.csv",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "check": "公开文件无参与者码: route_stats.json",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "check": "公开清单指纹与实际一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "私有目录与公开目录不同路径",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿状态待人工审批",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿引用含 G1@摘要",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿引用含 G10@摘要",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿引用含 G11@摘要",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿引用含 G11B@摘要",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿引用含 G2@摘要",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿引用含 G3@摘要",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿引用含 G4@摘要",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿引用含 G5@摘要",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿引用含 G6@摘要",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿引用含 G7@摘要",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿引用含 G8@摘要",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿引用含 G9@摘要",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿引用含 W5@摘要",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿引用含 W8@摘要",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿正文无 S1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿正文无 S2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿正文无 S3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿正文无 S4",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿正文无 S5",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿正文无 S6",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿正文无 S7",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿正文无 S8",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿正文无 S9",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿正文无 S10",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿正文无 S11",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿正文无 S12",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿正文无 合成人",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿正文无 000-",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿出现在草稿列表",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "草稿列表标注待人工审批",
+      "pass": true,
+      "detail": ""
+    }
+  ]
+}

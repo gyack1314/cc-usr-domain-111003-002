@@ -1,0 +1,555 @@
+{
+  "correspondence": [
+    {
+      "age_band": "20-39",
+      "consent_evidence": "G1",
+      "original_age": 24,
+      "original_hour": 8,
+      "original_route": "R1",
+      "person_code": "S1",
+      "route_region": "东片",
+      "source_row": "O1",
+      "time_band": "早高峰"
+    },
+    {
+      "age_band": "20-39",
+      "consent_evidence": "G1",
+      "original_age": 24,
+      "original_hour": 8,
+      "original_route": "R1",
+      "person_code": "S1",
+      "route_region": "东片",
+      "source_row": "O10",
+      "time_band": "早高峰"
+    },
+    {
+      "age_band": "20-39",
+      "consent_evidence": "G2",
+      "original_age": 25,
+      "original_hour": 8,
+      "original_route": "R1",
+      "person_code": "S2",
+      "route_region": "东片",
+      "source_row": "O2",
+      "time_band": "早高峰"
+    },
+    {
+      "age_band": "20-39",
+      "consent_evidence": "G3",
+      "original_age": 27,
+      "original_hour": 8,
+      "original_route": "R1",
+      "person_code": "S3",
+      "route_region": "东片",
+      "source_row": "O3",
+      "time_band": "早高峰"
+    },
+    {
+      "age_band": "40-59",
+      "consent_evidence": "G4",
+      "original_age": 42,
+      "original_hour": 18,
+      "original_route": "R2",
+      "person_code": "S4",
+      "route_region": "西片",
+      "source_row": "O4",
+      "time_band": "晚高峰"
+    },
+    {
+      "age_band": "40-59",
+      "consent_evidence": "G6",
+      "original_age": 45,
+      "original_hour": 18,
+      "original_route": "R2",
+      "person_code": "S6",
+      "route_region": "西片",
+      "source_row": "O6",
+      "time_band": "晚高峰"
+    },
+    {
+      "age_band": "60+",
+      "consent_evidence": "G7",
+      "original_age": 61,
+      "original_hour": 7,
+      "original_route": "R3",
+      "person_code": "S7",
+      "route_region": "北片",
+      "source_row": "O7",
+      "time_band": "早高峰"
+    },
+    {
+      "age_band": "60+",
+      "consent_evidence": "G9",
+      "original_age": 66,
+      "original_hour": 9,
+      "original_route": "R4",
+      "person_code": "S9",
+      "route_region": "北片",
+      "source_row": "O9",
+      "time_band": "早高峰"
+    }
+  ],
+  "decisions": {
+    "S1": {
+      "doc_evaluation": [
+        {
+          "attachment_sha256": "4c1d962783c8d59c84258bba037c8e6cbef0bcf03b384dee430c9a306390cc12",
+          "collected_from": "2026-01-01",
+          "covers_observation_dates": true,
+          "doc": "G1",
+          "document_sha256": "c01b7784193dbeed39580d12b63914a56c3ebfb0d36e3a805b097b6edab8a00a",
+          "purpose_match": true,
+          "until": "2027-01-01",
+          "usable_for_application": true
+        }
+      ],
+      "evidence_docs": "G1",
+      "person": "S1",
+      "reason": "存在覆盖本次用途与采集时点的有效授权",
+      "status": "eligible",
+      "withdrawal_doc": null
+    },
+    "S10": {
+      "doc_evaluation": [
+        {
+          "attachment_sha256": "f976f9aa2d3ca4d08d99e0f982fa525a2731731806cbf3489a92d8581fe7558f",
+          "collected_from": "2026-01-01",
+          "covers_observation_dates": true,
+          "doc": "G10",
+          "document_sha256": "95eb685ca6f668ddf227ada54097a19da320a9602fcfd6cd8e443ff1f338ca3e",
+          "purpose_match": false,
+          "until": "2027-01-01",
+          "usable_for_application": false
+        }
+      ],
+      "evidence_docs": "G10",
+      "person": "S10",
+      "reason": "有效授权用途不含“路线统计”，授权不得推及本次申请用途",
+      "status": "purpose_out_of_scope",
+      "withdrawal_doc": null
+    },
+    "S11": {
+      "doc_evaluation": [
+        {
+          "attachment_sha256": "d49a0bd0d25d6cb2f2cab21f412fcfe4d8a242f9c8ed159bac975119c876a8db",
+          "collected_from": "2026-11-01",
+          "covers_observation_dates": false,
+          "doc": "G11B",
+          "document_sha256": "34fa5fa20bb9ab4d4b7e6cefa8a668aa62cc4233942622bdf0f30c1b9a3c8441",
+          "purpose_match": true,
+          "until": "2027-01-01",
+          "usable_for_application": false
+        }
+      ],
+      "evidence_docs": "G11B",
+      "person": "S11",
+      "reason": "授权列明的适用采集日期不覆盖观察记录日期；不得用后续签署的宽泛条款追溯覆盖不在范围内的旧记录",
+      "status": "collection_not_covered",
+      "withdrawal_doc": null
+    },
+    "S12": {
+      "doc_evaluation": [],
+      "evidence_docs": null,
+      "person": "S12",
+      "reason": "门户无该参与者任何同意/补充文书",
+      "status": "no_consent",
+      "withdrawal_doc": null
+    },
+    "S2": {
+      "doc_evaluation": [
+        {
+          "attachment_sha256": "91a23f56704bc5574a427e43b401433dc54bb03bea77cbf2bde20aca611d2236",
+          "collected_from": "2026-01-01",
+          "covers_observation_dates": true,
+          "doc": "G2",
+          "document_sha256": "991008bffcb5bf579f380a973f879116cc43a4c1b02fe89824801f934f56f319",
+          "purpose_match": true,
+          "until": "2027-01-01",
+          "usable_for_application": true
+        }
+      ],
+      "evidence_docs": "G2",
+      "person": "S2",
+      "reason": "存在覆盖本次用途与采集时点的有效授权",
+      "status": "eligible",
+      "withdrawal_doc": null
+    },
+    "S3": {
+      "doc_evaluation": [
+        {
+          "attachment_sha256": "5fba3a1d5ff2fc5ffb21c127e7d831351d84557e6648724cafbc57853ada24b9",
+          "collected_from": "2026-01-01",
+          "covers_observation_dates": true,
+          "doc": "G3",
+          "document_sha256": "a48ed78d66e68e1a481cb217bced30ba295fec83804cff511d4f9057ec07d6e1",
+          "purpose_match": true,
+          "until": "2027-01-01",
+          "usable_for_application": true
+        }
+      ],
+      "evidence_docs": "G3",
+      "person": "S3",
+      "reason": "存在覆盖本次用途与采集时点的有效授权",
+      "status": "eligible",
+      "withdrawal_doc": null
+    },
+    "S4": {
+      "doc_evaluation": [
+        {
+          "attachment_sha256": "2fcbe009180b6f40b62fbe5776dad9aeeff572a57c7e82f6aad039ec8f46bc1a",
+          "collected_from": "2026-01-01",
+          "covers_observation_dates": true,
+          "doc": "G4",
+          "document_sha256": "54414f931e5aed936bef548237721540bcfae72dfb707c255c106a828020370b",
+          "purpose_match": true,
+          "until": "2027-01-01",
+          "usable_for_application": true
+        }
+      ],
+      "evidence_docs": "G4",
+      "person": "S4",
+      "reason": "存在覆盖本次用途与采集时点的有效授权",
+      "status": "eligible",
+      "withdrawal_doc": null
+    },
+    "S5": {
+      "doc_evaluation": [
+        {
+          "attachment_sha256": "a4f2fde0060747a769a8d96514007c712b666d952e55b352d1b908da855042b7",
+          "collected_from": "2026-01-01",
+          "covers_observation_dates": true,
+          "doc": "G5",
+          "document_sha256": "3f3ebe5a7376bbe877e08797740f58f86133c47a0f6ac365b7fa7949b8f704fc",
+          "purpose_match": true,
+          "until": "2027-01-01",
+          "usable_for_application": true
+        }
+      ],
+      "evidence_docs": "W5",
+      "person": "S5",
+      "reason": "撤回 W5 于 2026-11-09T09:00:00+08:00 生效（早于冻结时点），范围：全部研究数据；原始行与衍生行全部留置",
+      "status": "withdrawn",
+      "withdrawal_doc": "W5"
+    },
+    "S6": {
+      "doc_evaluation": [
+        {
+          "attachment_sha256": "ccd16cb16ac39951024a1f2d6e47495d3a2a985197eec40d7bca0c9f6a26eff1",
+          "collected_from": "2026-01-01",
+          "covers_observation_dates": true,
+          "doc": "G6",
+          "document_sha256": "57580a2c61ac8e55a7bf4eae595ec06fa8bd6f086a951e3b0119a9e51a088196",
+          "purpose_match": true,
+          "until": "2027-01-01",
+          "usable_for_application": true
+        }
+      ],
+      "evidence_docs": "G6",
+      "person": "S6",
+      "reason": "存在覆盖本次用途与采集时点的有效授权",
+      "status": "eligible",
+      "withdrawal_doc": null
+    },
+    "S7": {
+      "doc_evaluation": [
+        {
+          "attachment_sha256": "5e9e211d815eef7e91e13c6ad2f3f018edc56d97ab46105c480344b8c22429eb",
+          "collected_from": "2026-01-01",
+          "covers_observation_dates": true,
+          "doc": "G7",
+          "document_sha256": "ab935af73830e085c23b8b35afec35228c0dc82a43755e76f154176b7944cb08",
+          "purpose_match": true,
+          "until": "2027-01-01",
+          "usable_for_application": true
+        }
+      ],
+      "evidence_docs": "G7",
+      "person": "S7",
+      "reason": "存在覆盖本次用途与采集时点的有效授权",
+      "status": "eligible",
+      "withdrawal_doc": null
+    },
+    "S8": {
+      "doc_evaluation": [
+        {
+          "attachment_sha256": "cfe3bd51ffc00695e40cb264999eef35b42a553510b78f4e0c5428f764e4cdf5",
+          "collected_from": "2026-01-01",
+          "covers_observation_dates": true,
+          "doc": "G8",
+          "document_sha256": "96fc978acebc4c0c6acffd7a2040eb6a83144b8de2d5af261c671d082a2c6810",
+          "purpose_match": true,
+          "until": "2027-01-01",
+          "usable_for_application": true
+        }
+      ],
+      "evidence_docs": "W8",
+      "person": "S8",
+      "reason": "撤回 W8 于 2026-11-10T10:00:00+08:00 生效（早于冻结时点），范围：全部研究数据；原始行与衍生行全部留置",
+      "status": "withdrawn",
+      "withdrawal_doc": "W8"
+    },
+    "S9": {
+      "doc_evaluation": [
+        {
+          "attachment_sha256": "69c4f9452b07495ce068d928bfc4f0d81593c1b2efde7dc3447d0dfcc0948b90",
+          "collected_from": "2026-01-01",
+          "covers_observation_dates": true,
+          "doc": "G9",
+          "document_sha256": "8edcc98c8cfc1b81703d7dfe7f329f1e1761acadb49305b4a9083bdb9607cf2f",
+          "purpose_match": true,
+          "until": "2027-01-01",
+          "usable_for_application": true
+        }
+      ],
+      "evidence_docs": "G9",
+      "person": "S9",
+      "reason": "存在覆盖本次用途与采集时点的有效授权",
+      "status": "eligible",
+      "withdrawal_doc": null
+    }
+  },
+  "eligible_lineage": [
+    "O1",
+    "O10",
+    "O2",
+    "O3",
+    "O4",
+    "O6",
+    "O7",
+    "O9"
+  ],
+  "fine_groups": [
+    {
+      "key": [
+        "R1",
+        8,
+        24
+      ],
+      "people": 1
+    },
+    {
+      "key": [
+        "R1",
+        8,
+        25
+      ],
+      "people": 1
+    },
+    {
+      "key": [
+        "R1",
+        8,
+        27
+      ],
+      "people": 1
+    },
+    {
+      "key": [
+        "R2",
+        18,
+        42
+      ],
+      "people": 1
+    },
+    {
+      "key": [
+        "R2",
+        18,
+        45
+      ],
+      "people": 1
+    },
+    {
+      "key": [
+        "R3",
+        7,
+        61
+      ],
+      "people": 1
+    },
+    {
+      "key": [
+        "R4",
+        9,
+        66
+      ],
+      "people": 1
+    }
+  ],
+  "freeze_at": "2026-11-10T12:00:00+08:00",
+  "observations_sha256": "04616b960296759b5b4500f7cbbd7f42b57f60ea33b593d71a7d55cb1bfe98f7",
+  "public_rows": [
+    {
+      "age_band": "20-39",
+      "distinct_participants": 3,
+      "observation_count": 4,
+      "route_region": "东片",
+      "time_band": "早高峰"
+    }
+  ],
+  "published_groups": [
+    {
+      "age_band": "20-39",
+      "decision": "发布",
+      "decision_note": "k=3 >= 3",
+      "distinct_participants": 3,
+      "distinct_participants_after_time_generalization": 3,
+      "route_region": "东片",
+      "time_band": "早高峰"
+    }
+  ],
+  "region_all_day_groups": [
+    {
+      "key": [
+        "东片",
+        "全日",
+        "20-39"
+      ],
+      "people": 3
+    },
+    {
+      "key": [
+        "北片",
+        "全日",
+        "60+"
+      ],
+      "people": 2
+    },
+    {
+      "key": [
+        "西片",
+        "全日",
+        "40-59"
+      ],
+      "people": 2
+    }
+  ],
+  "region_peak_band_groups": [
+    {
+      "key": [
+        "东片",
+        "早高峰",
+        "20-39"
+      ],
+      "people": 3
+    },
+    {
+      "key": [
+        "北片",
+        "早高峰",
+        "60+"
+      ],
+      "people": 2
+    },
+    {
+      "key": [
+        "西片",
+        "晚高峰",
+        "40-59"
+      ],
+      "people": 2
+    }
+  ],
+  "retained_lineage": [
+    "O11",
+    "O12",
+    "O13",
+    "O5",
+    "O8"
+  ],
+  "retention_detail": [
+    {
+      "age": 29,
+      "date": "2026-10-20",
+      "disposition": "留置（不进入公开副本，亦不产生任何衍生统计行）",
+      "evidence_docs": "G10",
+      "hour": 8,
+      "person_code": "S10",
+      "reason": "有效授权用途不含“路线统计”，授权不得推及本次申请用途",
+      "route": "R1",
+      "source_row": "O11",
+      "status": "purpose_out_of_scope",
+      "withdrawal_doc": null
+    },
+    {
+      "age": 48,
+      "date": "2026-10-20",
+      "disposition": "留置（不进入公开副本，亦不产生任何衍生统计行）",
+      "evidence_docs": "G11B",
+      "hour": 18,
+      "person_code": "S11",
+      "reason": "授权列明的适用采集日期不覆盖观察记录日期；不得用后续签署的宽泛条款追溯覆盖不在范围内的旧记录",
+      "route": "R2",
+      "source_row": "O12",
+      "status": "collection_not_covered",
+      "withdrawal_doc": null
+    },
+    {
+      "age": 62,
+      "date": "2026-10-20",
+      "disposition": "留置（不进入公开副本，亦不产生任何衍生统计行）",
+      "evidence_docs": null,
+      "hour": 7,
+      "person_code": "S12",
+      "reason": "门户无该参与者任何同意/补充文书",
+      "route": "R3",
+      "source_row": "O13",
+      "status": "no_consent",
+      "withdrawal_doc": null
+    },
+    {
+      "age": 43,
+      "date": "2026-10-20",
+      "disposition": "留置（不进入公开副本，亦不产生任何衍生统计行）",
+      "evidence_docs": "W5",
+      "hour": 18,
+      "person_code": "S5",
+      "reason": "撤回 W5 于 2026-11-09T09:00:00+08:00 生效（早于冻结时点），范围：全部研究数据；原始行与衍生行全部留置",
+      "route": "R2",
+      "source_row": "O5",
+      "status": "withdrawn",
+      "withdrawal_doc": "W5"
+    },
+    {
+      "age": 64,
+      "date": "2026-10-20",
+      "disposition": "留置（不进入公开副本，亦不产生任何衍生统计行）",
+      "evidence_docs": "W8",
+      "hour": 8,
+      "person_code": "S8",
+      "reason": "撤回 W8 于 2026-11-10T10:00:00+08:00 生效（早于冻结时点），范围：全部研究数据；原始行与衍生行全部留置",
+      "route": "R3",
+      "source_row": "O8",
+      "status": "withdrawn",
+      "withdrawal_doc": "W8"
+    }
+  ],
+  "suppressed_groups": [
+    {
+      "age_band": "60+",
+      "decision": "压制",
+      "decision_note": "片区×时段×年龄段 k=2<3，进一步泛化至全日 k=2 仍不足；拒绝发布该组合，信息损失：该路线片区/时段/年龄段切片不提供统计",
+      "distinct_participants": 2,
+      "distinct_participants_after_time_generalization": 2,
+      "route_region": "北片",
+      "time_band": "早高峰"
+    },
+    {
+      "age_band": "40-59",
+      "decision": "压制",
+      "decision_note": "片区×时段×年龄段 k=2<3，进一步泛化至全日 k=2 仍不足；拒绝发布该组合，信息损失：该路线片区/时段/年龄段切片不提供统计",
+      "distinct_participants": 2,
+      "distinct_participants_after_time_generalization": 2,
+      "route_region": "西片",
+      "time_band": "晚高峰"
+    }
+  ],
+  "withdrawal_residual_check": {
+    "pass": true,
+    "withdrawn_in_public": []
+  },
+  "withdrawn_people": [
+    "S5",
+    "S8"
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "base_url": "http://127.0.0.1:8765",
+  "drafts_initial_text": "预审草稿\n\n预审草稿不构成审批、对外发布或业务确认。\n\n新建草稿",
+  "list_pages": [
+    {
+      "count_text": "共 14 份资料",
+      "page": 1
+    },
+    {
+      "count_text": "共 14 份资料",
+      "page": 2
+    },
+    {
+      "count_text": "共 14 份资料",
+      "page": 3
+    }
+  ],
+  "records": [
+    {
+      "attachment_file": "attachments/G1.json",
+      "attachment_sha256": "4c1d962783c8d59c84258bba037c8e6cbef0bcf03b384dee430c9a306390cc12",
+      "category": "同意",
+      "detail_text_excerpt": "参与者授权 1\n资料编号\nG1\n修订\n1\n内容摘要\n4c1d962783c8d59c84258bba037c8e6cbef0bcf03b384dee430c9a306390cc12\n草稿引用\nG1@4c1d962783c8d59c84258bba037c8e6cbef0bcf03b384dee430c9a306390cc12\n{\n  \"person\": \"S1\",\n  \"purpose\": [\n    \"路线统计\"\n  ],\n  \"collected_from\": \"2026-01-01\",\n  \"signed\": \"2026-09-01\",\n  \"until\": \"2027-01-01\"\n}\n下载原始材料\n\n下载文书或扫描副本",
+      "document_file": "documents/G1.txt",
+      "document_sha256": "c01b7784193dbeed39580d12b63914a56c3ebfb0d36e3a805b097b6edab8a00a",
+      "fields": {
+        "collected_from": "2026-01-01",
+        "person": "S1",
+        "purpose": [
+          "路线统计"
+        ],
+        "signed": "2026-09-01",
+        "until": "2027-01-01"
+      },
+      "id": "G1",
+      "portal_reference": "G1@4c1d962783c8d59c84258bba037c8e6cbef0bcf03b384dee430c9a306390cc12",
+      "revision": 1,
+      "title": "参与者授权 1"
+    },
+    {
+      "attachment_file": "attachments/G10.json",
+      "attachment_sha256": "f976f9aa2d3ca4d08d99e0f982fa525a2731731806cbf3489a92d8581fe7558f",
+      "category": "同意",
+      "detail_text_excerpt": "参与者授权 10\n资料编号\nG10\n修订\n1\n内容摘要\nf976f9aa2d3ca4d08d99e0f982fa525a2731731806cbf3489a92d8581fe7558f\n草稿引用\nG10@f976f9aa2d3ca4d08d99e0f982fa525a2731731806cbf3489a92d8581fe7558f\n{\n  \"person\": \"S10\",\n  \"purpose\": [\n    \"商业评估\"\n  ],\n  \"collected_from\": \"2026-01-01\",\n  \"signed\": \"2026-09-01\",\n  \"until\": \"2027-01-01\"\n}\n下载原始材料\n\n下载文书或扫描副本",
+      "document_file": "documents/G10.txt",
+      "document_sha256": "95eb685ca6f668ddf227ada54097a19da320a9602fcfd6cd8e443ff1f338ca3e",
+      "fields": {
+        "collected_from": "2026-01-01",
+        "person": "S10",
+        "purpose": [
+          "商业评估"
+        ],
+        "signed": "2026-09-01",
+        "until": "2027-01-01"
+      },
+      "id": "G10",
+      "portal_reference": "G10@f976f9aa2d3ca4d08d99e0f982fa525a2731731806cbf3489a92d8581fe7558f",
+      "revision": 1,
+      "title": "参与者授权 10"
+    },
+    {
+      "attachment_file": "attachments/G11.json",
+      "attachment_sha256": "d0f476e01692c83f375779b2e81f01c4d37a0c61b060b532cec0807cfa787d04",
+      "category": "同意",
+      "detail_text_excerpt": "参与者授权 11\n资料编号\nG11\n修订\n1\n内容摘要\nd0f476e01692c83f375779b2e81f01c4d37a0c61b060b532cec0807cfa787d04\n草稿引用\nG11@d0f476e01692c83f375779b2e81f01c4d37a0c61b060b532cec0807cfa787d04\n{\n  \"person\": \"S11\",\n  \"purpose\": [\n    \"路线统计\"\n  ],\n  \"collected_from\": \"2026-11-01\",\n  \"signed\": \"2026-09-01\",\n  \"until\": \"2027-01-01\"\n}\n下载原始材料\n\n下载文书或扫描副本",
+      "document_file": "documents/G11.txt",
+      "document_sha256": "94561c9a2947f0d2451ba681862801a82aef2143c18b5ea2433466d0332a1d39",
+      "fields": {
+        "collected_from": "2026-11-01",
+        "person": "S11",
+        "purpose": [
+          "路线统计"
+        ],
+        "signed": "2026-09-01",
+        "until": "2027-01-01"
+      },
+      "id": "G11",
+      "portal_reference": "G11@d0f476e01692c83f375779b2e81f01c4d37a0c61b060b532cec0807cfa787d04",
+      "revision": 1,
+      "title": "参与者授权 11"
+    },
+    {
+      "attachment_file": "attachments/G11B.json",
+      "attachment_sha256": "d49a0bd0d25d6cb2f2cab21f412fcfe4d8a242f9c8ed159bac975119c876a8db",
+      "category": "补充",
+      "detail_text_excerpt": "S11补充用途\n资料编号\nG11B\n修订\n1\n内容摘要\nd49a0bd0d25d6cb2f2cab21f412fcfe4d8a242f9c8ed159bac975119c876a8db\n草稿引用\nG11B@d49a0bd0d25d6cb2f2cab21f412fcfe4d8a242f9c8ed159bac975119c876a8db\n{\n  \"person\": \"S11\",\n  \"purpose\": [\n    \"路线统计\"\n  ],\n  \"collected_from\": \"2026-11-01\",\n  \"signed\": \"2026-11-05\",\n  \"supersedes\": \"G11\"\n}\n下载原始材料\n\n下载文书或扫描副本",
+      "document_file": "documents/G11B.txt",
+      "document_sha256": "34fa5fa20bb9ab4d4b7e6cefa8a668aa62cc4233942622bdf0f30c1b9a3c8441",
+      "fields": {
+        "collected_from": "2026-11-01",
+        "person": "S11",
+        "purpose": [
+          "路线统计"
+        ],
+        "signed": "2026-11-05",
+        "supersedes": "G11"
+      },
+      "id": "G11B",
+      "portal_reference": "G11B@d49a0bd0d25d6cb2f2cab21f412fcfe4d8a242f9c8ed159bac975119c876a8db",
+      "revision": 1,
+      "title": "S11补充用途"
+    },
+    {
+      "attachment_file": "attachments/G2.json",
+      "attachment_sha256": "91a23f56704bc5574a427e43b401433dc54bb03bea77cbf2bde20aca611d2236",
+      "category": "同意",
+      "detail_text_excerpt": "参与者授权 2\n资料编号\nG2\n修订\n1\n内容摘要\n91a23f56704bc5574a427e43b401433dc54bb03bea77cbf2bde20aca611d2236\n草稿引用\nG2@91a23f56704bc5574a427e43b401433dc54bb03bea77cbf2bde20aca611d2236\n{\n  \"person\": \"S2\",\n  \"purpose\": [\n    \"路线统计\"\n  ],\n  \"collected_from\": \"2026-01-01\",\n  \"signed\": \"2026-09-01\",\n  \"until\": \"2027-01-01\"\n}\n下载原始材料\n\n下载文书或扫描副本",
+      "document_file": "documents/G2.txt",
+      "document_sha256": "991008bffcb5bf579f380a973f879116cc43a4c1b02fe89824801f934f56f319",
+      "fields": {
+        "collected_from": "2026-01-01",
+        "person": "S2",
+        "purpose": [
+          "路线统计"
+        ],
+        "signed": "2026-09-01",
+        "until": "2027-01-01"
+      },
+      "id": "G2",
+      "portal_reference": "G2@91a23f56704bc5574a427e43b401433dc54bb03bea77cbf2bde20aca611d2236",
+      "revision": 1,
+      "title": "参与者授权 2"
+    },
+    {
+      "attachment_file": "attachments/G3.json",
+      "attachment_sha256": "5fba3a1d5ff2fc5ffb21c127e7d831351d84557e6648724cafbc57853ada24b9",
+      "category": "同意",
+      "detail_text_excerpt": "参与者授权 3\n资料编号\nG3\n修订\n1\n内容摘要\n5fba3a1d5ff2fc5ffb21c127e7d831351d84557e6648724cafbc57853ada24b9\n草稿引用\nG3@5fba3a1d5ff2fc5ffb21c127e7d831351d84557e6648724cafbc57853ada24b9\n{\n  \"person\": \"S3\",\n  \"purpose\": [\n    \"路线统计\"\n  ],\n  \"collected_from\": \"2026-01-01\",\n  \"signed\": \"2026-09-01\",\n  \"until\": \"2027-01-01\"\n}\n下载原始材料\n\n下载文书或扫描副本",
+      "document_file": "documents/G3.txt",
+      "document_sha256": "a48ed78d66e68e1a481cb217bced30ba295fec83804cff511d4f9057ec07d6e1",
+      "fields": {
+        "collected_from": "2026-01-01",
+        "person": "S3",
+        "purpose": [
+          "路线统计"
+        ],
+        "signed": "2026-09-01",
+        "until": "2027-01-01"
+      },
+      "id": "G3",
+      "portal_reference": "G3@5fba3a1d5ff2fc5ffb21c127e7d831351d84557e6648724cafbc57853ada24b9",
+      "revision": 1,
+      "title": "参与者授权 3"
+    },
+    {
+      "attachment_file": "attachments/G4.json",
+      "attachment_sha256": "2fcbe009180b6f40b62fbe5776dad9aeeff572a57c7e82f6aad039ec8f46bc1a",
+      "category": "同意",
+      "detail_text_excerpt": "参与者授权 4\n资料编号\nG4\n修订\n1\n内容摘要\n2fcbe009180b6f40b62fbe5776dad9aeeff572a57c7e82f6aad039ec8f46bc1a\n草稿引用\nG4@2fcbe009180b6f40b62fbe5776dad9aeeff572a57c7e82f6aad039ec8f46bc1a\n{\n  \"person\": \"S4\",\n  \"purpose\": [\n    \"路线统计\"\n  ],\n  \"collected_from\": \"2026-01-01\",\n  \"signed\": \"2026-09-01\",\n  \"until\": \"2027-01-01\"\n}\n下载原始材料\n\n下载文书或扫描副本",
+      "document_file": "documents/G4.txt",
+      "document_sha256": "54414f931e5aed936bef548237721540bcfae72dfb707c255c106a828020370b",
+      "fields": {
+        "collected_from": "2026-01-01",
+        "person": "S4",
+        "purpose": [
+          "路线统计"
+        ],
+        "signed": "2026-09-01",
+        "until": "2027-01-01"
+      },
+      "id": "G4",
+      "portal_reference": "G4@2fcbe009180b6f40b62fbe5776dad9aeeff572a57c7e82f6aad039ec8f46bc1a",
+      "revision": 1,
+      "title": "参与者授权 4"
+    },
+    {
+      "attachment_file": "attachments/G5.json",
+      "attachment_sha256": "a4f2fde0060747a769a8d96514007c712b666d952e55b352d1b908da855042b7",
+      "category": "同意",
+      "detail_text_excerpt": "参与者授权 5\n资料编号\nG5\n修订\n1\n内容摘要\na4f2fde0060747a769a8d96514007c712b666d952e55b352d1b908da855042b7\n草稿引用\nG5@a4f2fde0060747a769a8d96514007c712b666d952e55b352d1b908da855042b7\n{\n  \"person\": \"S5\",\n  \"purpose\": [\n    \"路线统计\"\n  ],\n  \"collected_from\": \"2026-01-01\",\n  \"signed\": \"2026-09-01\",\n  \"until\": \"2027-01-01\"\n}\n下载原始材料\n\n下载文书或扫描副本",
+      "document_file": "documents/G5.txt",
+      "document_sha256": "3f3ebe5a7376bbe877e08797740f58f86133c47a0f6ac365b7fa7949b8f704fc",
+      "fields": {
+        "collected_from": "2026-01-01",
+        "person": "S5",
+        "purpose": [
+          "路线统计"
+        ],
+        "signed": "2026-09-01",
+        "until": "2027-01-01"
+      },
+      "id": "G5",
+      "portal_reference": "G5@a4f2fde0060747a769a8d96514007c712b666d952e55b352d1b908da855042b7",
+      "revision": 1,
+      "title": "参与者授权 5"
+    },
+    {
+      "attachment_file": "attachments/G6.json",
+      "attachment_sha256": "ccd16cb16ac39951024a1f2d6e47495d3a2a985197eec40d7bca0c9f6a26eff1",
+      "category": "同意",
+      "detail_text_excerpt": "参与者授权 6\n资料编号\nG6\n修订\n1\n内容摘要\nccd16cb16ac39951024a1f2d6e47495d3a2a985197eec40d7bca0c9f6a26eff1\n草稿引用\nG6@ccd16cb16ac39951024a1f2d6e47495d3a2a985197eec40d7bca0c9f6a26eff1\n{\n  \"person\": \"S6\",\n  \"purpose\": [\n    \"路线统计\"\n  ],\n  \"collected_from\": \"2026-01-01\",\n  \"signed\": \"2026-09-01\",\n  \"until\": \"2027-01-01\"\n}\n下载原始材料\n\n下载文书或扫描副本",
+      "document_file": "documents/G6.txt",
+      "document_sha256": "57580a2c61ac8e55a7bf4eae595ec06fa8bd6f086a951e3b0119a9e51a088196",
+      "fields": {
+        "collected_from": "2026-01-01",
+        "person": "S6",
+        "purpose": [
+          "路线统计"
+        ],
+        "signed": "2026-09-01",
+        "until": "2027-01-01"
+      },
+      "id": "G6",
+      "portal_reference": "G6@ccd16cb16ac39951024a1f2d6e47495d3a2a985197eec40d7bca0c9f6a26eff1",
+      "revision": 1,
+      "title": "参与者授权 6"
+    },
+    {
+      "attachment_file": "attachments/G7.json",
+      "attachment_sha256": "5e9e211d815eef7e91e13c6ad2f3f018edc56d97ab46105c480344b8c22429eb",
+      "category": "同意",
+      "detail_text_excerpt": "参与者授权 7\n资料编号\nG7\n修订\n1\n内容摘要\n5e9e211d815eef7e91e13c6ad2f3f018edc56d97ab46105c480344b8c22429eb\n草稿引用\nG7@5e9e211d815eef7e91e13c6ad2f3f018edc56d97ab46105c480344b8c22429eb\n{\n  \"person\": \"S7\",\n  \"purpose\": [\n    \"路线统计\"\n  ],\n  \"collected_from\": \"2026-01-01\",\n  \"signed\": \"2026-09-01\",\n  \"until\": \"2027-01-01\"\n}\n下载原始材料\n\n下载文书或扫描副本",
+      "document_file": "documents/G7.txt",
+      "document_sha256": "ab935af73830e085c23b8b35afec35228c0dc82a43755e76f154176b7944cb08",
+      "fields": {
+        "collected_from": "2026-01-01",
+        "person": "S7",
+        "purpose": [
+          "路线统计"
+        ],
+        "signed": "2026-09-01",
+        "until": "2027-01-01"
+      },
+      "id": "G7",
+      "portal_reference": "G7@5e9e211d815eef7e91e13c6ad2f3f018edc56d97ab46105c480344b8c22429eb",
+      "revision": 1,
+      "title": "参与者授权 7"
+    },
+    {
+      "attachment_file": "attachments/G8.json",
+      "attachment_sha256": "cfe3bd51ffc00695e40cb264999eef35b42a553510b78f4e0c5428f764e4cdf5",
+      "category": "同意",
+      "detail_text_excerpt": "参与者授权 8\n资料编号\nG8\n修订\n1\n内容摘要\ncfe3bd51ffc00695e40cb264999eef35b42a553510b78f4e0c5428f764e4cdf5\n草稿引用\nG8@cfe3bd51ffc00695e40cb264999eef35b42a553510b78f4e0c5428f764e4cdf5\n{\n  \"person\": \"S8\",\n  \"purpose\": [\n    \"路线统计\"\n  ],\n  \"collected_from\": \"2026-01-01\",\n  \"signed\": \"2026-09-01\",\n  \"until\": \"2027-01-01\"\n}\n下载原始材料\n\n下载文书或扫描副本",
+      "document_file": "documents/G8.txt",
+      "document_sha256": "96fc978acebc4c0c6acffd7a2040eb6a83144b8de2d5af261c671d082a2c6810",
+      "fields": {
+        "collected_from": "2026-01-01",
+        "person": "S8",
+        "purpose": [
+          "路线统计"
+        ],
+        "signed": "2026-09-01",
+        "until": "2027-01-01"
+      },
+      "id": "G8",
+      "portal_reference": "G8@cfe3bd51ffc00695e40cb264999eef35b42a553510b78f4e0c5428f764e4cdf5",
+      "revision": 1,
+      "title": "参与者授权 8"
+    },
+    {
+      "attachment_file": "attachments/G9.json",
+      "attachment_sha256": "69c4f9452b07495ce068d928bfc4f0d81593c1b2efde7dc3447d0dfcc0948b90",
+      "category": "同意",
+      "detail_text_excerpt": "参与者授权 9\n资料编号\nG9\n修订\n1\n内容摘要\n69c4f9452b07495ce068d928bfc4f0d81593c1b2efde7dc3447d0dfcc0948b90\n草稿引用\nG9@69c4f9452b07495ce068d928bfc4f0d81593c1b2efde7dc3447d0dfcc0948b90\n{\n  \"person\": \"S9\",\n  \"purpose\": [\n    \"路线统计\"\n  ],\n  \"collected_from\": \"2026-01-01\",\n  \"signed\": \"2026-09-01\",\n  \"until\": \"2027-01-01\"\n}\n下载原始材料\n\n下载文书或扫描副本",
+      "document_file": "documents/G9.txt",
+      "document_sha256": "8edcc98c8cfc1b81703d7dfe7f329f1e1761acadb49305b4a9083bdb9607cf2f",
+      "fields": {
+        "collected_from": "2026-01-01",
+        "person": "S9",
+        "purpose": [
+          "路线统计"
+        ],
+        "signed": "2026-09-01",
+        "until": "2027-01-01"
+      },
+      "id": "G9",
+      "portal_reference": "G9@69c4f9452b07495ce068d928bfc4f0d81593c1b2efde7dc3447d0dfcc0948b90",
+      "revision": 1,
+      "title": "参与者授权 9"
+    },
+    {
+      "attachment_file": "attachments/W5.json",
+      "attachment_sha256": "a576ffe5bb21b167c09e8d233adfba2ba6df14c9d52d2ebebc1f877f08ab87cc",
+      "category": "撤回",
+      "detail_text_excerpt": "S5撤回\n资料编号\nW5\n修订\n1\n内容摘要\na576ffe5bb21b167c09e8d233adfba2ba6df14c9d52d2ebebc1f877f08ab87cc\n草稿引用\nW5@a576ffe5bb21b167c09e8d233adfba2ba6df14c9d52d2ebebc1f877f08ab87cc\n{\n  \"person\": \"S5\",\n  \"effective\": \"2026-11-09T09:00:00+08:00\",\n  \"scope\": \"全部研究数据\"\n}\n下载原始材料\n\n下载文书或扫描副本",
+      "document_file": "documents/W5.txt",
+      "document_sha256": "7a3c236a8b04b00664043a29a935b9d22fe7788665a444d2d508ff94361aa179",
+      "fields": {
+        "effective": "2026-11-09T09:00:00+08:00",
+        "person": "S5",
+        "scope": "全部研究数据"
+      },
+      "id": "W5",
+      "portal_reference": "W5@a576ffe5bb21b167c09e8d233adfba2ba6df14c9d52d2ebebc1f877f08ab87cc",
+      "revision": 1,
+      "title": "S5撤回"
+    },
+    {
+      "attachment_file": "attachments/W8.json",
+      "attachment_sha256": "bda22c534078aafb0719a6e8a84c5ae90eaf193b34a2964728bfc5b654011d99",
+      "category": "撤回",
+      "detail_text_excerpt": "S8撤回\n资料编号\nW8\n修订\n1\n内容摘要\nbda22c534078aafb0719a6e8a84c5ae90eaf193b34a2964728bfc5b654011d99\n草稿引用\nW8@bda22c534078aafb0719a6e8a84c5ae90eaf193b34a2964728bfc5b654011d99\n{\n  \"person\": \"S8\",\n  \"effective\": \"2026-11-10T10:00:00+08:00\",\n  \"scope\": \"全部研究数据\"\n}\n下载原始材料\n\n下载文书或扫描副本",
+      "document_file": "documents/W8.txt",
+      "document_sha256": "77dc9eaf7ded50477b105feaf851bcaa35ab111791a666df3d9f1677836c3bb7",
+      "fields": {
+        "effective": "2026-11-10T10:00:00+08:00",
+        "person": "S8",
+        "scope": "全部研究数据"
+      },
+      "id": "W8",
+      "portal_reference": "W8@bda22c534078aafb0719a6e8a84c5ae90eaf193b34a2964728bfc5b654011d99",
+      "revision": 1,
+      "title": "S8撤回"
+    }
+  ]
+}

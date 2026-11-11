@@ -1,0 +1,15 @@
+{
+  "category": "同意",
+  "fields": {
+    "collected_from": "2026-01-01",
+    "person": "S8",
+    "purpose": [
+      "路线统计"
+    ],
+    "signed": "2026-09-01",
+    "until": "2027-01-01"
+  },
+  "id": "G8",
+  "revision": 1,
+  "title": "参与者授权 8"
+}

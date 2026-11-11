@@ -1,0 +1,78 @@
+{
+  "freeze_at": "2026-11-10T12:00:00+08:00",
+  "note": "留置区记录不进入公开副本，也不产生衍生统计；撤回者原始行与衍生行全部在此留痕。",
+  "retained_rows": [
+    {
+      "age": 29,
+      "date": "2026-10-20",
+      "disposition": "留置（不进入公开副本，亦不产生任何衍生统计行）",
+      "evidence_docs": "G10",
+      "hour": 8,
+      "person_code": "S10",
+      "reason": "有效授权用途不含“路线统计”，授权不得推及本次申请用途",
+      "route": "R1",
+      "source_row": "O11",
+      "status": "purpose_out_of_scope",
+      "withdrawal_doc": null
+    },
+    {
+      "age": 48,
+      "date": "2026-10-20",
+      "disposition": "留置（不进入公开副本，亦不产生任何衍生统计行）",
+      "evidence_docs": "G11B",
+      "hour": 18,
+      "person_code": "S11",
+      "reason": "授权列明的适用采集日期不覆盖观察记录日期；不得用后续签署的宽泛条款追溯覆盖不在范围内的旧记录",
+      "route": "R2",
+      "source_row": "O12",
+      "status": "collection_not_covered",
+      "withdrawal_doc": null
+    },
+    {
+      "age": 62,
+      "date": "2026-10-20",
+      "disposition": "留置（不进入公开副本，亦不产生任何衍生统计行）",
+      "evidence_docs": null,
+      "hour": 7,
+      "person_code": "S12",
+      "reason": "门户无该参与者任何同意/补充文书",
+      "route": "R3",
+      "source_row": "O13",
+      "status": "no_consent",
+      "withdrawal_doc": null
+    },
+    {
+      "age": 43,
+      "date": "2026-10-20",
+      "disposition": "留置（不进入公开副本，亦不产生任何衍生统计行）",
+      "evidence_docs": "W5",
+      "hour": 18,
+      "person_code": "S5",
+      "reason": "撤回 W5 于 2026-11-09T09:00:00+08:00 生效（早于冻结时点），范围：全部研究数据；原始行与衍生行全部留置",
+      "route": "R2",
+      "source_row": "O5",
+      "status": "withdrawn",
+      "withdrawal_doc": "W5"
+    },
+    {
+      "age": 64,
+      "date": "2026-10-20",
+      "disposition": "留置（不进入公开副本，亦不产生任何衍生统计行）",
+      "evidence_docs": "W8",
+      "hour": 8,
+      "person_code": "S8",
+      "reason": "撤回 W8 于 2026-11-10T10:00:00+08:00 生效（早于冻结时点），范围：全部研究数据；原始行与衍生行全部留置",
+      "route": "R3",
+      "source_row": "O8",
+      "status": "withdrawn",
+      "withdrawal_doc": "W8"
+    }
+  ],
+  "retained_source_rows": [
+    "O11",
+    "O12",
+    "O13",
+    "O5",
+    "O8"
+  ]
+}

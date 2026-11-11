@@ -1,0 +1,11 @@
+{
+  "category": "撤回",
+  "fields": {
+    "effective": "2026-11-09T09:00:00+08:00",
+    "person": "S5",
+    "scope": "全部研究数据"
+  },
+  "id": "W5",
+  "revision": 1,
+  "title": "S5撤回"
+}

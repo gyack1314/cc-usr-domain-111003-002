@@ -1,0 +1,15 @@
+{
+  "category": "补充",
+  "fields": {
+    "collected_from": "2026-11-01",
+    "person": "S11",
+    "purpose": [
+      "路线统计"
+    ],
+    "signed": "2026-11-05",
+    "supersedes": "G11"
+  },
+  "id": "G11B",
+  "revision": 1,
+  "title": "S11补充用途"
+}

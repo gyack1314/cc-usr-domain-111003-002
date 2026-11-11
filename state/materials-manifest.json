@@ -1,0 +1,22 @@
+[
+  {
+    "path": "application.md",
+    "sha256": "c814b8914797ecf7868b60196edc0fda213d40de446774fea941aa32e77e86ff",
+    "size": 149
+  },
+  {
+    "path": "dictionary.json",
+    "sha256": "722aabee664d8bcf2e34d0c4b414d45a614f915c590bb8ebaf6d023ca6ad6028",
+    "size": 175
+  },
+  {
+    "path": "observations.csv",
+    "sha256": "04616b960296759b5b4500f7cbbd7f42b57f60ea33b593d71a7d55cb1bfe98f7",
+    "size": 641
+  },
+  {
+    "path": "policy.md",
+    "sha256": "a76e731e0ed74d424a8d424f03e360f7faf3b38b7ebc4314b45fed82dffc7746",
+    "size": 610
+  }
+]

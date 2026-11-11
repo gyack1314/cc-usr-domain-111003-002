@@ -1,0 +1,17 @@
+[
+  {
+    "path": "release_notes.md",
+    "sha256": "08531c37841cbede8bd9a08986ac52281e2f21a4fc759bf6e3fc5753fa6048c6",
+    "size": 4781
+  },
+  {
+    "path": "route_stats.csv",
+    "sha256": "205663a44903196a78711bc0ac8073c8d25ed9e8ae57f005da9bffe79f52df88",
+    "size": 101
+  },
+  {
+    "path": "route_stats.json",
+    "sha256": "605dc90c66cc7f58a58c8f3231637f9a68c650c00e66e9fe10d69885bc3a2fd4",
+    "size": 669
+  }
+]
